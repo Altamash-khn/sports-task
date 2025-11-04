@@ -1,8 +1,6 @@
-# Sports Assignment
-
-This is a **frontend assignment** built using **Vanilla HTML5** and **CSS3**.  
-It showcases a **sports-themed web layout** designed for **1440px screen resolution**, demonstrating responsive layout handling and clean UI design principles.
-
+# Sports Task
+This is a **frontend** task created using **HTML5** and **CSS3**, replicating a sports-themed design from Figma.
+The project focuses on achieving a pixel-perfect layout optimized for **1440px** desktop screens, following clean, semantic, and well-structured coding practices.
 
 ## Live Demo
 Click <a href="https://sports-assignment.vercel.app/">HERE</a> to see a live demo.
